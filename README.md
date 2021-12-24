@@ -1,6 +1,6 @@
 # OneDirection DAO
 
-### **Welcome 👋**
+### **Hi 👋**
 This is a OneDirection DAO created for fans of One Direction
 I built this project with buildspace
 
@@ -18,11 +18,18 @@ I built this project with buildspace
   <li>Thirdweb</li>
 </ul>
 
-### **Project Demo Screenshot**
-<img src="#">
+### **How to get started**
+<ul>
+  <li>Connect your Metamask wallet (connect it to ETH Rinkeby testnet)</li>
+  <li>Mint your NFT</li>
+  <li>Welcome to the OneDirection DAO!</li>
+</ul>
 
 ### **Project Demo Screenshot**
-[OneDirectionDAO](#)
+<img src="https://i.ibb.co/Q6jGLyD/onedirectiondao.png">
+
+### **View Live Project here**
+[OneDirection DAO](https://youthful-spence-c771be.netlify.app/)
 
 
 
