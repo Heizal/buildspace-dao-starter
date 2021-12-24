@@ -4,7 +4,9 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  /* background-color: #2ca7d8; */
+  background: linear-gradient(to right, #cc95c0, #dbd4b4, #7aa1d2);
+
   color: #fff;
   overflow-x: hidden;
 }
@@ -116,7 +118,8 @@ h1 {
 
 button {
   cursor: pointer;
-  background-color: #000;
+  /* background-color: #000; */
+  background: linear-gradient(to right, #ff6e7f, #bfe9ff);
   color: #fff;
   border: none;
   font-weight: bold;
@@ -128,11 +131,13 @@ button {
 }
 
 button:hover {
-  background-color: #121212;
+  background: linear-gradient(to right, #d84959, #44abe2);
+  color: #fff;
 }
 
 button:focus {
-  background-color: #222;
+  background: linear-gradient(to right, #b32a3a, #178fcf);
+  color: #fff;
 }
 
 button:disabled {
